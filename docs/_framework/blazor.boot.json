@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "WebAssemblySudokuApp",
   "resources": {
-    "hash": "sha256-AkPizhIroJLOsUUBlC2Ot0FENhMWDbbH4C1XPlQoyzY=",
+    "hash": "sha256-pW60FTmE13anSEnQbqDaJS5PcYJkg+nd70kkUpa/kPI=",
     "jsModuleNative": {
-      "dotnet.native.8.0.10.dsqllj7l8c.js": "sha256-FWE08dRA/APXlSTclctffF9nmrGnMzyoamCuPXmuxdA="
+      "dotnet.native.8.0.10.q7iljnnw33.js": "sha256-FWE08dRA/APXlSTclctffF9nmrGnMzyoamCuPXmuxdA="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.8.0.10.39apnb5yx8.js": "sha256-FjrgL9dY6dc2yUoXDWowSfachSgM8O29qUMWDQOJKRI="
@@ -48,7 +48,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-hmEqWvCZQnS2F8DAjTdmesIMijXij07DuFxe0SVocRQ=",
       "System.Text.Json.wasm": "sha256-0Rwdsw70vfCMuP6Kua69EnMtpG9DjxUYLFWAdK8jTwE=",
       "System.Text.RegularExpressions.wasm": "sha256-wEHv8zSPfibWXTDcOYr6yaWO1ZDflORcHqJKw38gnAk=",
-      "WebAssemblySudokuApp.wasm": "sha256-NOCr1mE5oiumqsz69bd0cTsjFEmbrOTE8YwQGc3q2Ok="
+      "WebAssemblySudokuApp.wasm": "sha256-+LcOh2EBkLh14OqjGWfSjBjl1Yc6PT49cjxuFXrkC/Y="
     }
   },
   "cacheBootResources": true,
