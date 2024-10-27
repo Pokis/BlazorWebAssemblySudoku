@@ -8,11 +8,9 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
-@code {
-    private int currentCount = 0;
+<button class="btn btn-primary" @onclick="InvokeSignalR">Listen to hub</button>
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
-}
+<button class="btn btn-primary" @onclick="SendToSignalR">Send to hub</button>
+
+<button class="btn btn-primary" @onclick="GetApplicationInformation">Get App info</button>
+<p role="status">App info: @appInfo</p>
